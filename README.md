@@ -17,3 +17,11 @@ TextBlob
 **Models:**
 
 KNN, Logistic Regression, SVM, Random Forest using scikit-learn
+***
+**Results:**
+
+***SVM Cross Validation***
+![SVM](https://github.com/sohlin/StockPricePrediction-Tweets/blob/master/image/image1.png)
+
+***KNN Cross Validation***
+![KNN](https://github.com/sohlin/StockPricePrediction-Tweets/blob/master/image/image2.png)
